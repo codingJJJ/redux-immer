@@ -1,0 +1,19 @@
+{
+  "name": "redux-immer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immer": "^9.0.16",
+    "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "vite": "^3.2.3"
+  }
+}
