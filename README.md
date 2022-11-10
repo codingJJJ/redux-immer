@@ -1,5 +1,8 @@
 # immerjs
 
+## dev
+npm run dev to test demo
+
 ## 差异对比（主要是reducer中的变化）
 only redux
 ```js
